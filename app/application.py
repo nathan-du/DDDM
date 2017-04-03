@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 import os
 
 app = Flask(__name__)
@@ -6,11 +6,10 @@ app = Flask(__name__)
 @app.route('/', methods = ['GET', 'POST'])
 def check():
     if request.method == 'GET':
-        return "THIS IS THE HOME PAGE"
+        return render_template('main.html')
     if request.method == 'POST':
         data = request.form
-        truth = do_check(data)
-        return "THIS IS THE RESULTS PAGE: " + truth
+        return render_template('results.html', factuality = do_check(data))
     else:
         return "ERROR METHOD NOT ALLOWED"    
 
