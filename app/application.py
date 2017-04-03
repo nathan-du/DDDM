@@ -9,9 +9,9 @@ def check():
         return render_template('main.html')
     if request.method == 'POST':
         data = request.form
-        return render_template('results.html', factuality = do_check(data))
+        return render_template('results.html', factuality = str(do_check(data)))
     else:
-        return "ERROR METHOD NOT ALLOWED"    
+        return "ERROR METHOD NOT ALLOWED\n"    
 
 def do_check(statement):
     #DO PROCESSING
