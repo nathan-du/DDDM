@@ -8,14 +8,14 @@ def check():
     if request.method == 'GET':
         return render_template('main.html')
     if request.method == 'POST':
-        data = request.form
-        return render_template('results.html', factuality = str(do_check(data)))
+        query = request.form['query']
+        return render_template('results.html', factuality = str(do_check(query)))
     else:
         return "ERROR METHOD NOT ALLOWED\n"    
 
-def do_check(statement):
+def do_check(query):
     #DO PROCESSING
-    return True
+    return "true" in query
 
 if __name__ == '__main__':
     app.run()
