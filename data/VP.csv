@@ -1,0 +1,184 @@
+ID,YEAR,VP NAME,VP PARTY,VP ELECTORAL VOTE
+VP1,1789,NULL,NULL,NULL
+VP2,1789,NULL,NULL,NULL
+VP3,1789,NULL,NULL,NULL
+VP4,1792,NULL,NULL,NULL
+VP5,1792,NULL,NULL,NULL
+VP6,1792,NULL,NULL,NULL
+VP7,1792,NULL,NULL,NULL
+VP8,1792,NULL,NULL,NULL
+VP9,1796,NULL,NULL,NULL
+VP10,1796,NULL,NULL,NULL
+VP11,1796,NULL,NULL,NULL
+VP12,1796,NULL,NULL,NULL
+VP13,1796,NULL,NULL,NULL
+VP14,1800,NULL,NULL,NULL
+VP15,1800,NULL,NULL,NULL
+VP16,1800,NULL,NULL,NULL
+VP17,1800,NULL,NULL,NULL
+VP18,1800,NULL,NULL,NULL
+VP19,1804,George Clinton,Dem.-Rep.,162
+VP20,1804,Rufus King,Federalist,14
+VP21,1808,George Clinton,Dem.-Rep.,113
+VP22,1808,Rufus King,Federalist,47
+VP23,1808,John Langdon,(no party),9
+VP24,1808,James Madison,Dem.-Rep.,3
+VP25,1808,James Monroe,Dem.-Rep.,3
+VP26,1812,Elbridge Gerry,Dem.-Rep.,131
+VP27,1812,Jared Ingersoll,Federalist,86
+VP28,1816,Daniel D. Tompkins,Dem.-Rep.,183
+VP29,1816,John E. Howard,Federalist,22
+VP30,1816,James Ross,(no party),5
+VP31,1816,John Marshall,Federalist,4
+VP32,1816,Robert G. Harper,(no party),3
+VP33,1820,Daniel D. Tompkins,Dem.-Rep.,218
+VP34,1820,Richard Stockton,(no party),8
+VP35,1820,Daniel Rodney,(no party),4
+VP36,1820,Richard Rush,(no party),1
+VP37,1820,Robert G. Harper,(no party),1
+VP38,1824,John C. Calhoun,(no party),182
+VP39,1824,Nathan Sanford,(no party),30
+VP40,1824,Nathaniel Macon,(no party),24
+VP41,1824,Andrew Jackson,(no party),13
+VP42,1824,Martin Van Buren,(no party),9
+VP43,1824,Henry Clay,(no party),2
+VP44,1828,John C. Calhoun,Democratic,171
+VP45,1828,Richard Rush,Natl. Rep.,83
+VP46,1828,William Smith,Democratic,7
+VP47,1832,Martin Van Buren,Democratic,189
+VP48,1832,John Sergeant,Natl. Rep.,49
+VP49,1832,Henry Lee,(no party),11
+VP50,1832,Amos Ellmaker,Antimasonic,7
+VP51,1832,William Wilkins,(no party),30
+VP52,1836,Richard M. Johnson,Democratic,147
+VP53,1836,Francis Granger,Whig,77
+VP54,1836,John Tyler,Whig,47
+VP55,1836,William Smith,(no party),23
+VP56,1840,John Tyler,Whig,234
+VP57,1840,Richard M. Johnson,Democratic,48
+VP58,1840,L. W. Tazewell,(no party),11
+VP59,1840,James K. Polk,Democratic,1
+VP60,1844,George M. Dallas,Democratic,170
+VP61,1844,Theo. Frelinghuysen,Whig,105
+VP62,1848,Millard Fillmore,Whig,163
+VP63,1848,William O. Butler,Democratic,127
+VP64,1852,William R. King,Democratic,254
+VP65,1852,William A. Graham,Whig,42
+VP66,1856,John C. Breckinridge,Democratic,174
+VP67,1856,William L. Dayton,Republican,114
+VP68,1856,A. J. Donelson,American,8
+VP69,1860,Hannibal Hamlin,Republican,180
+VP70,1860,Joseph Lane,Democratic,72
+VP71,1860,Edward Everett,Const. Union,39
+VP72,1860,H. V. Johnson,Democratic,12
+VP73,1864,Andrew Johnson,Union,212
+VP74,1864,G. H. Pendleton,Democratic,21
+VP75,1868,Schuyler Colfax,Republican,214
+VP76,1868,"Francis P. Blair, Jr.",Democratic,80
+VP77,1872,Henry Wilson,Republican,NULL
+VP78,1872,B. Gratz Brown,Democratic,NULL
+VP79,1876,William A. Wheeler,Republican,NULL
+VP80,1876,Thomas A. Hendricks,Democratic,NULL
+VP81,1876,Samuel F. Cary,Greenback,NULL
+VP82,1880,Chester A. Arthur,Republican,NULL
+VP83,1880,William H. English,Democratic,NULL
+VP84,1880,B. J. Chambers,Greenback,NULL
+VP85,1884,Thomas A. Hendricks,Democratic,NULL
+VP86,1884,John A. Logan,Republican,NULL
+VP87,1884,A. M. West,Greenback,NULL
+VP88,1884,William Daniel,Prohibition,NULL
+VP89,1888,Levi P. Morton,Republican,NULL
+VP90,1888,A. G. Thurman,Democratic,NULL
+VP91,1888,John A. Brooks,Prohibition,NULL
+VP92,1888,Charles E. Cunningham,Union Labor,NULL
+VP93,1892,Adlai E. Stevenson,Democratic,NULL
+VP94,1892,Whitelaw Reid,Republican,NULL
+VP95,1892,James G. Field,People's,NULL
+VP96,1892,James B. Cranfill,Prohibition,NULL
+VP97,1896,Garret A. Hobart,Republican,NULL
+VP98,1896,Arthur Sewall,Democratic,NULL
+VP99,1896,Thomas E. Watson,People's,NULL
+VP100,1896,Simon B. Buckner,Natl. Dem.,NULL
+VP101,1896,Hale Johnson,Prohibition,NULL
+VP102,1900,Theodore Roosevelt,Republican,NULL
+VP103,1900,Adlai E. Stevenson,Democratic,NULL
+VP104,1900,Job Harriman,Social Democratic,NULL
+VP105,1904,Charles W. Fairbanks,Republican,NULL
+VP106,1904,Henry G. Davis,Democratic,NULL
+VP107,1904,Benjamin Hanford,Socialist,NULL
+VP108,1908,James S. Sherman,Republican,NULL
+VP109,1908,John W. Kern,Democratic,NULL
+VP110,1908,Benjamin Hanford,Socialist,NULL
+VP111,1912,Thomas R. Marshall,Democratic,NULL
+VP112,1912,Hiram Johnson,Progressive,NULL
+VP113,1912,Nicholas M. Butler,Republican,NULL
+VP114,1912,Emil Seidel,Socialist,NULL
+VP115,1916,Thomas R. Marshall,Democratic,NULL
+VP116,1916,Charles W. Fairbanks,Republican,NULL
+VP117,1916,G. R. Kirkpatrick,Socialist,NULL
+VP118,1920,Calvin Coolidge,Republican,NULL
+VP119,1920,Franklin D. Roosevelt,Democratic,NULL
+VP120,1920,Seymour Stedman,Socialist,NULL
+VP121,1924,Charles G. Dawes,Republican,NULL
+VP122,1924,Charles W. Bryan,Democratic,NULL
+VP123,1924,Burton K. Wheeler,Progressive,NULL
+VP124,1928,Charles Curtis,Republican,NULL
+VP125,1928,Joseph T. Robinson,Democratic,NULL
+VP126,1928,James H. Maurer,Socialist,NULL
+VP127,1932,John N. Garner,Democratic,NULL
+VP128,1932,Charles Curtis,Republican,NULL
+VP129,1932,James H. Maurer,Socialist,NULL
+VP130,1936,John N. Garner,Democratic,NULL
+VP131,1936,Frank Knox,Republican,NULL
+VP132,1936,George Nelson,Socialist,NULL
+VP133,1940,Henry A. Wallace,Democratic,NULL
+VP134,1940,Charles L. McNary,Republican,NULL
+VP135,1940,Maynard C. Krueger,Socialist,NULL
+VP136,1944,Harry S. Truman,Democratic,NULL
+VP137,1944,John W. Bricker,Republican,NULL
+VP138,1944,Darlington Hoopes,Socialist,NULL
+VP139,1948,Alben W. Barkley,Democratic,NULL
+VP140,1948,Earl Warren,Republican,NULL
+VP141,1948,Fielding L. Wright,States' Rights Dem.,NULL
+VP142,1948,Glen Taylor,Progressive,NULL
+VP143,1948,Tucker P. Smith,Socialist,NULL
+VP144,1952,Richard M. Nixon,Republican,NULL
+VP145,1952,John J. Sparkman,Democratic,NULL
+VP146,1956,Richard M. Nixon,Republican,NULL
+VP147,1956,Estes Kefauver,Democratic,NULL
+VP148,1960,Lyndon B. Johnson,Democratic,NULL
+VP149,1960,Henry Cabot Lodge,Republican,NULL
+VP150,1964,Hubert H. Humphrey,Democratic,NULL
+VP151,1964,William E. Miller,Republican,NULL
+VP152,1968,Spiro T. Agnew,Republican,NULL
+VP153,1968,Edmund S. Muskie,Democratic,NULL
+VP154,1968,Curtis F. LeMay,American Independent,NULL
+VP155,1972,Spiro T. Agnew,Republican,NULL
+VP156,1972,Sargent Shriver,Democratic,NULL
+VP157,1972,Thomas J. Anderson,American,NULL
+VP158,1976,Walter F. Mondale,Democratic,NULL
+VP159,1976,Robert J. Dole,Republican,NULL
+VP160,1980,George Bush,Republican,NULL
+VP161,1980,Walter F. Mondale,Democratic,NULL
+VP162,1980,Patrick J. Lucey,(no party),NULL
+VP163,1984,George Bush,Republican,NULL
+VP164,1984,Geraldine A. Ferraro,Democratic,NULL
+VP165,1988,J. Danforth Quayle,Republican,NULL
+VP166,1988,Lloyd Bentsen,Democratic,NULL
+VP167,1992,"Albert A. Gore, J.",Democratic,NULL
+VP168,1992,J. Danforth Quayle,Republican,NULL
+VP169,1992,James B. Stockdale,(no party),NULL
+VP170,1996,"Albert A. Gore, Jr.",Democratic,NULL
+VP171,1996,Jack F. Kemp,Republican,NULL
+VP172,1996,Pat Choate,Reform Party,NULL
+VP173,2000,Richard B. Cheney,Republican,NULL
+VP174,2000,Joseph I. Lieberman,Democratic,NULL
+VP175,2000,Winona LaDuke,Green Party,NULL
+VP176,2004,Richard B. Cheney,Republican,NULL
+VP177,2004,John Edwards,Democratic,NULL
+VP178,2008,Joseph Biden,Democratic,NULL
+VP179,2008,Sarah Palin,Republican,NULL
+VP180,2012,Joseph Biden,Democratic,NULL
+VP181,2012,Paul Ryan,Republican,NULL
+VP182,2016,Mike Pence,Republican,NULL
+VP183,2016,Tim Kaine,Democratic,NULL
