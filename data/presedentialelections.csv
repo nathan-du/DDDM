@@ -1,174 +1,174 @@
 ID,YEAR,NAME,PARTY,ELECTORAL_VOTES,POPULAR_VOTE
-P1,1789,George Washington,(no party),69,NULL
-P2,1789,John Adams,(no party),34,NULL
-P3,1789,Scattering,(no party) ,35,NULL
-P4,1792,George Washington,Federalist,132,NULL
-P5,1792,John Adams,Federalist,77,NULL
-P6,1792,George Clinton,Anti-Federalist,50,NULL
-P7,1792,Thomas Jefferson,Anti-Federalist,4,NULL
-P8,1792,Aaron Burr,Anti-Federalist,1,NULL
-P9,1796,John Adams,Federalist,71,NULL
-P10,1796,Thomas Jefferson,Dem.-Rep.,68,NULL
-P11,1796,Thomas Pinckney,Federalist,59,NULL
-P12,1796,Aaron Burr,Dem.-Rep.,30,NULL
-P13,1800,Thomas Jefferson,Dem.-Rep.,73,NULL
-P14,1800,Aaron Burr,Dem.-Rep.,73,NULL
-P15,1800,John Adams,Federalist,65,NULL
-P16,1800,Charles C. Pinckney,Federalist,64,NULL
-P17,1800,John Jay,Federalist,1,NULL
-P18,1804,Thomas Jefferson,Dem.-Rep.,162,NULL
-P19,1804,Charles C. Pinckney,Federalist,14,NULL
-P20,1808,James Madison,Dem.-Rep.,122,NULL
-P21,1808,Charles C. Pinckney,Federalist,47,NULL
-P22,1808,George Clinton,Dem.-Rep.,6,NULL
-P23,1812,James Madison,Dem.-Rep.,128,NULL
-P24,1812,De Witt Clinton,Federalist,89,NULL
-P25,1816,James Monroe,Dem.-Rep.,183,NULL
-P26,1816,Rufus King,Federalist,34,NULL
-P27,1820,James Monroe,Dem-Rep,231,NULL
-P28,1820,John Quincy Adams,(no party),1,NULL
-P29,1824,John Quincy Adams,(no party),84,NULL
-P30,1824,Andrew Jackson,(no party),99,NULL
-P31,1824,William H. Crawford,(no party),41,NULL
-P32,1824,Henry Clay,(no party),37,NULL
-P33,1828,Andrew Jackson,Democratic,178,NULL
-P34,1828,John Quincy Adams,Natl. Rep.,83,NULL
-P35,1832,Andrew Jackson,Democratic,219,NULL
-P36,1832,Henry Clay,Natl. Rep.,49,NULL
-P37,1832,John Floyd,(no party),11,NULL
-P38,1832,William Wirt,Antimasonic,7,NULL
-P39,1836,Martin Van Buren,Democratic,170,NULL
-P40,1836,William H. Harrison,Whig,73,NULL
-P41,1836,Hugh L. White,Whig,26,NULL
-P42,1836,Daniel Webster,Whig,14,NULL
-P43,1836,W. P. Mangum,(no party),11,NULL
-P44,1840,William H. Harrison,Whig,234,NULL
-P45,1840,Martin Van Buren,Democratic,60,NULL
-P46,1844,James K. Polk,Democratic,170,NULL
-P47,1844,Henry Clay,Whig,105,NULL
-P48,1848,Zachary Taylor,Whig,163,NULL
-P49,1848,Lewis Cass,Democratic,127,NULL
-P50,1852,Franklin Pierce,Democratic,254,NULL
-P51,1852,Winfield Scott,Whig,42,NULL
-P52,1856,James Buchanan,Democratic,174,NULL
-P53,1856,John C. Fremont,Republican,114,NULL
-P54,1856,Millard Fillmore,American,8,NULL
-P55,1860,Abraham Lincoln,Republican,180,NULL
-P56,1860,John C. Breckinridge,Democratic,72,NULL
-P57,1860,John Bell,Const. Union,39,NULL
-P58,1860,Stephen A. Douglas,Democratic,12,NULL
-P59,1864,Abraham Lincoln,Union,212,NULL
-P60,1864,George B. McClellan,Democratic,21,NULL
-P61,1868,Ulysses S. Grant,Republican,214,NULL
-P62,1868,Horatio Seymour,Democratic,80,NULL
-P63,1872,Ulysses S. Grant,Republican,286,3597132
-P64,1872,Horace Greeley,"Dem., Liberal Rep.",3,2834125
-P65,1872,Thomas A. Hendricks,Democratic,42,NULL
-P66,1872,B. Gratz Brown,"Dem., Liberal Rep.",18,NULL
-P67,1872,Charles J. Jenkins,Democratic,2,NULL
-P68,1872,David Davis,Democratic,1,NULL
-P69,1876,Rutherford B. Hayes,Republican,185,4033768
-P70,1876,Samuel J. Tilden,Democratic,184,4285992
-P71,1876,Peter Cooper,Greenback,0,81737
-P72,1880,James A. Garfield,Republican,214,4449053
-P73,1880,Winfield S. Hancock,Democratic,155,4442035
-P74,1880,James B. Weaver,Greenback,0,308578
-P75,1884,Grover Cleveland,Democratic,219,4911017
-P76,1884,James G. Blaine,Republican,182,4848334
-P77,1884,Benjamin F. Butler,Greenback,0,175370
-P78,1884,John P. St. John,Prohibition,0,150369
-P79,1888,Benjamin Harrison,Republican,233,5440216
-P80,1888,Grover Cleveland,Democratic,168,5538233
-P81,1888,Clinton B. Fisk,Prohibition,0,249506
-P82,1888,Alson J. Streeter,Union Labor,0,146935
-P83,1892,Grover Cleveland,Democratic,277,5556918
-P84,1892,Benjamin Harrison,Republican,145,5176108
-P85,1892,James B. Weaver,People's,22,1041028
-P86,1892,John Bidwell,Prohibition,0,264133
-P87,1896,William McKinley,Republican,271,7035638
-P88,1896,William J. Bryan,"Dem., People's",176,6467946
-P89,1896,John M. Palmer,Natl. Dem.,0,133148
-P90,1896,Joshua Levering,Prohibition,0,132007
-P91,1900,William McKinley16,Republican,292,7219530
-P92,1900,William J. Bryan,"Dem., People's",155,6358071
-P93,1900,Eugene V. Debs,Social Democratic,0,94768
-P94,1904,Theodore Roosevelt,Republican,336,7628834
-P95,1904,Alton B. Parker,Democratic,140,5084491
-P96,1904,Eugene V. Debs,Socialist,0,402400
-P97,1908,William H. Taft,Republican,321,7679006
-P98,1908,William J. Bryan,Democratic,162,6409106
-P99,1908,Eugene V. Debs,Socialist,0,402820
-P100,1912,Woodrow Wilson,Democratic,435,6286214
-P101,1912,Theodore Roosevelt,Progressive,88,4126020
-P102,1912,William H. Taft,Republican,8,3483922
-P103,1912,Eugene V. Debs,Socialist,0,897011
-P104,1916,Woodrow Wilson,Democratic,277,9129606
-P105,1916,Charles E. Hughes,Republican,254,8538221
-P106,1916,A. L. Benson,Socialist,0,585113
-P107,1920,Warren G. Harding,Republican,404,16152200
-P108,1920,James M. Cox,Democratic,127,9147353
-P109,1920,Eugene V. Debs,Socialist,0,917799
-P110,1924,Calvin Coolidge,Republican,382,15725016
-P111,1924,John W. Davis,Democratic,136,8385586
-P112,1924,Robert M. LaFollette,"Progressive, Socialist",13,4822856
-P113,1928,Herbert Hoover,Republican,444,21392190
-P114,1928,Alfred E. Smith,Democratic,87,15016443
-P115,1928,Norman Thomas,Socialist,0,267420
-P116,1932,Franklin D. Roosevelt,Democratic,472,22821857
-P117,1932,Herbert Hoover,Republican,59,15761841
-P118,1932,Norman Thomas,Socialist,0,884781
-P119,1936,Franklin D. Roosevelt,Democratic,523,27751597
-P120,1936,Alfred M. Landon,Republican,8,16679583
-P121,1936,Norman Thomas,Socialist,0,187720
-P122,1940,Franklin D. Roosevelt,Democratic,449,27244160
-P123,1940,Wendell L. Willkie,Republican,82,22305198
-P124,1940,Norman Thomas,Socialist,0,99557
-P125,1944,Franklin D. Roosevelt,Democratic,432,25602504
-P126,1944,Thomas E. Dewey,Republican,99,22006285
-P127,1944,Norman Thomas,Socialist,0,80518
-P128,1948,Harry S. Truman,Democratic,303,24179345
-P129,1948,Thomas E. Dewey,Republican,189,21991291
-P130,1948,J. Strom Thurmond,States' Rights Dem.,39,1176125
-P131,1948,Henry A. Wallace,Progressive,0,1157326
-P132,1948,Norman Thomas,Socialist,0,139572
-P133,1952,Dwight D. Eisenhower,Republican,442,33936234
-P134,1952,Adlai E. Stevenson,Democratic,89,27314992
-P135,1956,Dwight D. Eisenhower,Republican,457,35590472
-P136,1956,Adlai E. Stevenson,Democratic,73,26022752
-P137,1960,John F. Kennedy,Democratic,303,34226731
-P138,1960,Richard M. Nixon,Republican,219,34108157
-P139,1964,Lyndon B. Johnson,Democratic,486,43129484
-P140,1964,Barry M. Goldwater,Republican,52,27178188
-P141,1968,Richard M. Nixon,Republican,301,31785480
-P142,1968,Hubert H. Humphrey,Democratic,191,31275166
-P143,1968,George C. Wallace,American Independent,46,9906473
-P144,1972,Richard M. Nixon,Republican,520,47169911
-P145,1972,George McGovern,Democratic,17,29170383
-P146,1972,John G. Schmitz,American,0,1099482
-P147,1976,Jimmy Carter,Democratic,297,40830763
-P148,1976,Gerald R. Ford,Republican,240,39147973
-P149,1976,Eugene J. McCarthy,Independent,0,756631
-P150,1980,Ronald Reagan,Republican,489,43899248
-P151,1980,Jimmy Carter,Democratic,49,36481435
-P152,1980,John B. Anderson,Independent,0,5719437
-P153,1984,Ronald Reagan,Republican,525,54455075
-P154,1984,Walter F. Mondale,Democratic,13,37577185
-P155,1988,George H. Bush,Republican,426,48886097
-P156,1988,Michael S. Dukakis,Democratic,111,41809074
-P157,1992,William J. Clinton,Democratic,370,44909889
-P158,1992,George H. Bush,Republican,168,39104545
-P159,1992,H. Ross Perot,Independent,0,19742267
-P160,1996,William J. Clinton,Democratic,379,47402357
-P161,1996,Robert J. Dole,Republican,159,39198755
-P162,1996,H. Ross Perot,Reform Party,0,8085402
-P163,2000,George W. Bush,Republican,271,50456002
-P164,2000,Albert A. Gore,Democratic,266,50999897
-P165,2000,Ralph Nader,Green Party,0,2882955
-P166,2004,George W. Bush,Republican,286,62028285
-P167,2004,John F. Kerry,Democratic,251,59028109
+P1,1789,GeorgeÂ Washington,(noÂ party),69,NULL
+P2,1789,JohnÂ Adams,(noÂ party),34,NULL
+P3,1789,Scattering,(noÂ party)Â ,35,NULL
+P4,1792,GeorgeÂ Washington,Federalist,132,NULL
+P5,1792,JohnÂ Adams,Federalist,77,NULL
+P6,1792,GeorgeÂ Clinton,Anti-Federalist,50,NULL
+P7,1792,ThomasÂ Jefferson,Anti-Federalist,4,NULL
+P8,1792,AaronÂ Burr,Anti-Federalist,1,NULL
+P9,1796,JohnÂ Adams,Federalist,71,NULL
+P10,1796,ThomasÂ Jefferson,Dem.-Rep.,68,NULL
+P11,1796,ThomasÂ Pinckney,Federalist,59,NULL
+P12,1796,AaronÂ Burr,Dem.-Rep.,30,NULL
+P13,1800,ThomasÂ Jefferson,Dem.-Rep.,73,NULL
+P14,1800,AaronÂ Burr,Dem.-Rep.,73,NULL
+P15,1800,JohnÂ Adams,Federalist,65,NULL
+P16,1800,CharlesÂ C.Â Pinckney,Federalist,64,NULL
+P17,1800,JohnÂ Jay,Federalist,1,NULL
+P18,1804,ThomasÂ Jefferson,Dem.-Rep.,162,NULL
+P19,1804,CharlesÂ C.Â Pinckney,Federalist,14,NULL
+P20,1808,JamesÂ Madison,Dem.-Rep.,122,NULL
+P21,1808,CharlesÂ C.Â Pinckney,Federalist,47,NULL
+P22,1808,GeorgeÂ Clinton,Dem.-Rep.,6,NULL
+P23,1812,JamesÂ Madison,Dem.-Rep.,128,NULL
+P24,1812,DeÂ WittÂ Clinton,Federalist,89,NULL
+P25,1816,JamesÂ Monroe,Dem.-Rep.,183,NULL
+P26,1816,RufusÂ King,Federalist,34,NULL
+P27,1820,JamesÂ Monroe,Dem-Rep,231,NULL
+P28,1820,JohnÂ QuincyÂ Adams,(noÂ party),1,NULL
+P29,1824,JohnÂ QuincyÂ Adams,(noÂ party),84,NULL
+P30,1824,AndrewÂ Jackson,(noÂ party),99,NULL
+P31,1824,WilliamÂ H.Â Crawford,(noÂ party),41,NULL
+P32,1824,HenryÂ Clay,(noÂ party),37,NULL
+P33,1828,AndrewÂ Jackson,Democratic,178,NULL
+P34,1828,JohnÂ QuincyÂ Adams,Natl.Â Rep.,83,NULL
+P35,1832,AndrewÂ Jackson,Democratic,219,NULL
+P36,1832,HenryÂ Clay,Natl.Â Rep.,49,NULL
+P37,1832,JohnÂ Floyd,(noÂ party),11,NULL
+P38,1832,WilliamÂ Wirt,Antimasonic,7,NULL
+P39,1836,MartinÂ VanÂ Buren,Democratic,170,NULL
+P40,1836,WilliamÂ H.Â Harrison,Whig,73,NULL
+P41,1836,HughÂ L.Â White,Whig,26,NULL
+P42,1836,DanielÂ Webster,Whig,14,NULL
+P43,1836,W.Â P.Â Mangum,(noÂ party),11,NULL
+P44,1840,William H.Â Harrison,Whig,234,NULL
+P45,1840,MartinÂ VanÂ Buren,Democratic,60,NULL
+P46,1844,JamesÂ K.Â Polk,Democratic,170,NULL
+P47,1844,HenryÂ Clay,Whig,105,NULL
+P48,1848,ZacharyÂ Taylor,Whig,163,NULL
+P49,1848,LewisÂ Cass,Democratic,127,NULL
+P50,1852,FranklinÂ Pierce,Democratic,254,NULL
+P51,1852,WinfieldÂ Scott,Whig,42,NULL
+P52,1856,JamesÂ Buchanan,Democratic,174,NULL
+P53,1856,JohnÂ C.Â Fremont,Republican,114,NULL
+P54,1856,MillardÂ Fillmore,American,8,NULL
+P55,1860,AbrahamÂ Lincoln,Republican,180,NULL
+P56,1860,JohnÂ C.Â Breckinridge,Democratic,72,NULL
+P57,1860,JohnÂ Bell,Const.Â Union,39,NULL
+P58,1860,StephenÂ A.Â Douglas,Democratic,12,NULL
+P59,1864,AbrahamÂ Lincoln,Union,212,NULL
+P60,1864,GeorgeÂ B.Â McClellan,Democratic,21,NULL
+P61,1868,UlyssesÂ S.Â Grant,Republican,214,NULL
+P62,1868,HoratioÂ Seymour,Democratic,80,NULL
+P63,1872,UlyssesÂ S.Â Grant,Republican,286,3597132
+P64,1872,HoraceÂ Greeley,"Dem.,Â LiberalÂ Rep.",3,2834125
+P65,1872,ThomasÂ A.Â Hendricks,Democratic,42,NULL
+P66,1872,B.Â GratzÂ Brown,"Dem.,Â LiberalÂ Rep.",18,NULL
+P67,1872,CharlesÂ J.Â Jenkins,Democratic,2,NULL
+P68,1872,DavidÂ Davis,Democratic,1,NULL
+P69,1876,RutherfordÂ B.Â Hayes,Republican,185,4033768
+P70,1876,SamuelÂ J.Â Tilden,Democratic,184,4285992
+P71,1876,PeterÂ Cooper,Greenback,0,81737
+P72,1880,JamesÂ A.Â Garfield,Republican,214,4449053
+P73,1880,WinfieldÂ S.Â Hancock,Democratic,155,4442035
+P74,1880,JamesÂ B.Â Weaver,Greenback,0,308578
+P75,1884,GroverÂ Cleveland,Democratic,219,4911017
+P76,1884,JamesÂ G.Â Blaine,Republican,182,4848334
+P77,1884,BenjaminÂ F.Â Butler,Greenback,0,175370
+P78,1884,JohnÂ P.Â St.Â John,Prohibition,0,150369
+P79,1888,BenjaminÂ Harrison,Republican,233,5440216
+P80,1888,GroverÂ Cleveland,Democratic,168,5538233
+P81,1888,ClintonÂ B.Â Fisk,Prohibition,0,249506
+P82,1888,AlsonÂ J.Â Streeter,UnionÂ Labor,0,146935
+P83,1892,GroverÂ Cleveland,Democratic,277,5556918
+P84,1892,BenjaminÂ Harrison,Republican,145,5176108
+P85,1892,JamesÂ B.Â Weaver,People's,22,1041028
+P86,1892,JohnÂ Bidwell,Prohibition,0,264133
+P87,1896,WilliamÂ McKinley,Republican,271,7035638
+P88,1896,WilliamÂ J.Â Bryan,"Dem.,Â People's",176,6467946
+P89,1896,JohnÂ M.Â Palmer,Natl.Â Dem.,0,133148
+P90,1896,JoshuaÂ Levering,Prohibition,0,132007
+P91,1900,WilliamÂ McKinley16,Republican,292,7219530
+P92,1900,WilliamÂ J.Â Bryan,"Dem.,Â People's",155,6358071
+P93,1900,EugeneÂ V.Â Debs,SocialÂ Democratic,0,94768
+P94,1904,TheodoreÂ Roosevelt,Republican,336,7628834
+P95,1904,AltonÂ B.Â Parker,Democratic,140,5084491
+P96,1904,EugeneÂ V.Â Debs,Socialist,0,402400
+P97,1908,WilliamÂ H.Â Taft,Republican,321,7679006
+P98,1908,WilliamÂ J.Â Bryan,Democratic,162,6409106
+P99,1908,EugeneÂ V.Â Debs,Socialist,0,402820
+P100,1912,WoodrowÂ Wilson,Democratic,435,6286214
+P101,1912,TheodoreÂ Roosevelt,Progressive,88,4126020
+P102,1912,WilliamÂ H.Â Taft,Republican,8,3483922
+P103,1912,EugeneÂ V.Â Debs,Socialist,0,897011
+P104,1916,WoodrowÂ Wilson,Democratic,277,9129606
+P105,1916,CharlesÂ E.Â Hughes,Republican,254,8538221
+P106,1916,A.Â L.Â Benson,Socialist,0,585113
+P107,1920,WarrenÂ G.Â Harding,Republican,404,16152200
+P108,1920,JamesÂ M.Â Cox,Democratic,127,9147353
+P109,1920,EugeneÂ V.Â Debs,Socialist,0,917799
+P110,1924,CalvinÂ Coolidge,Republican,382,15725016
+P111,1924,JohnÂ W.Â Davis,Democratic,136,8385586
+P112,1924,RobertÂ M.Â LaFollette,"Progressive,Â Socialist",13,4822856
+P113,1928,HerbertÂ Hoover,Republican,444,21392190
+P114,1928,AlfredÂ E.Â Smith,Democratic,87,15016443
+P115,1928,NormanÂ Thomas,Socialist,0,267420
+P116,1932,FranklinÂ D.Â Roosevelt,Democratic,472,22821857
+P117,1932,HerbertÂ Hoover,Republican,59,15761841
+P118,1932,NormanÂ Thomas,Socialist,0,884781
+P119,1936,FranklinÂ D.Â Roosevelt,Democratic,523,27751597
+P120,1936,AlfredÂ M.Â Landon,Republican,8,16679583
+P121,1936,NormanÂ Thomas,Socialist,0,187720
+P122,1940,FranklinÂ D.Â Roosevelt,Democratic,449,27244160
+P123,1940,WendellÂ L.Â Willkie,Republican,82,22305198
+P124,1940,NormanÂ Thomas,Socialist,0,99557
+P125,1944,FranklinÂ D.Â Roosevelt,Democratic,432,25602504
+P126,1944,ThomasÂ E.Â Dewey,Republican,99,22006285
+P127,1944,NormanÂ Thomas,Socialist,0,80518
+P128,1948,HarryÂ S.Â Truman,Democratic,303,24179345
+P129,1948,ThomasÂ E.Â Dewey,Republican,189,21991291
+P130,1948,J.Â StromÂ Thurmond,States'Â RightsÂ Dem.,39,1176125
+P131,1948,HenryÂ A.Â Wallace,Progressive,0,1157326
+P132,1948,NormanÂ Thomas,Socialist,0,139572
+P133,1952,DwightÂ D.Â Eisenhower,Republican,442,33936234
+P134,1952,AdlaiÂ E.Â Stevenson,Democratic,89,27314992
+P135,1956,DwightÂ D.Â Eisenhower,Republican,457,35590472
+P136,1956,AdlaiÂ E.Â Stevenson,Democratic,73,26022752
+P137,1960,JohnÂ F.Â Kennedy,Democratic,303,34226731
+P138,1960,RichardÂ M.Â Nixon,Republican,219,34108157
+P139,1964,LyndonÂ B.Â Johnson,Democratic,486,43129484
+P140,1964,BarryÂ M.Â Goldwater,Republican,52,27178188
+P141,1968,RichardÂ M.Â Nixon,Republican,301,31785480
+P142,1968,HubertÂ H.Â Humphrey,Democratic,191,31275166
+P143,1968,GeorgeÂ C.Â Wallace,AmericanÂ Independent,46,9906473
+P144,1972,RichardÂ M.Â Nixon,Republican,520,47169911
+P145,1972,GeorgeÂ McGovern,Democratic,17,29170383
+P146,1972,JohnÂ G.Â Schmitz,American,0,1099482
+P147,1976,JimmyÂ Carter,Democratic,297,40830763
+P148,1976,GeraldÂ R.Â Ford,Republican,240,39147973
+P149,1976,EugeneÂ J.Â McCarthy,Independent,0,756631
+P150,1980,RonaldÂ Reagan,Republican,489,43899248
+P151,1980,JimmyÂ Carter,Democratic,49,36481435
+P152,1980,JohnÂ B.Â Anderson,Independent,0,5719437
+P153,1984,RonaldÂ Reagan,Republican,525,54455075
+P154,1984,WalterÂ F.Â Mondale,Democratic,13,37577185
+P155,1988,GeorgeÂ H.Â Bush,Republican,426,48886097
+P156,1988,MichaelÂ S.Â Dukakis,Democratic,111,41809074
+P157,1992,WilliamÂ J.Â Clinton,Democratic,370,44909889
+P158,1992,GeorgeÂ H.Â Bush,Republican,168,39104545
+P159,1992,H.Â RossÂ Perot,Independent,0,19742267
+P160,1996,WilliamÂ J.Â Clinton,Democratic,379,47402357
+P161,1996,RobertÂ J.Â Dole,Republican,159,39198755
+P162,1996,H.Â RossÂ Perot,ReformÂ Party,0,8085402
+P163,2000,GeorgeÂ W.Â Bush,Republican,271,50456002
+P164,2000,AlbertÂ A.Â Gore,Democratic,266,50999897
+P165,2000,RalphÂ Nader,GreenÂ Party,0,2882955
+P166,2004,GeorgeÂ W.Â Bush,Republican,286,62028285
+P167,2004,JohnÂ F.Â Kerry,Democratic,251,59028109
 P168,2008,Barack Obama,Democratic,365,66862039
 P169,2008,John McCain,Republican,173,58319442
 P170,2012,Barack Obama,Democratic,332,62616535
 P171,2012,Mitt Romney,Republican,206,59090075
-P172,2016,Donald Trump,Republican,30630,62979636
-P173,2016,Hillary Clinton,Democratic,23231,65844610
+P172,2016,Donald Trump,Republican,306,62979636
+P173,2016,Hillary Clinton,Democratic,232,65844610
