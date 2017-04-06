@@ -3,16 +3,21 @@
   <head>
     <title>Truth or Fiction</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" type="text/css" href="../static/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../static/dashboard.css">
   </head>
-
+  
   <body>
-
-    <h1>Truth or Fiction</h1>
-
-    <form method="post">
-      <input type="text" name="query">
-      <input type="submit" value="Submit">
-    </form>
-
-   </body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main"> 
+          <h1>Truth or Fiction</h1>
+          <form class="navbar-form navbar-left" method="post">
+            <input type="text" name="query" class="form-control">
+            <input type="submit" value="Submit" class="btn btn-info">
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
