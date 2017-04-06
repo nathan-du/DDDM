@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template
 import os
+from parseSentence import parseSentence as ps
 
 app = Flask(__name__)
 
@@ -10,13 +11,9 @@ def check():
     if request.method == 'POST':
         query = request.form['query']
         print(query)
-        return render_template('results.html', factuality = str(do_check(query)))
+        return render_template('demo.html', factuality = str(ps(query)))
     else:
         return "ERROR METHOD NOT ALLOWED\n"    
-
-def do_check(query):
-    #DO PROCESSING
-    return "true" in query
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(50000))
