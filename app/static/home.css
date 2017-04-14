@@ -2,7 +2,7 @@
 .search-box{
 	-moz-border-radius: 15px;
  	border-radius: 15px;
-    border:solid 1px blue;logo_3.png
+    border:solid 1px blue;
     padding:5px;
     position:relative;
     left:10%;
@@ -12,7 +12,7 @@
     box-sizing: border-box;
     font-size: 16px;
     background-color: white;
-    background-image: url('../static/search_icon.png');
+    background-image: url('../images/search_icon.png');
     background-position: 600px;
     background-size: 30px;
     background-repeat: no-repeat;
@@ -24,10 +24,23 @@
 .logo{
 	vertical-align: center;
     position: relative;
-    left: 100px;
-    margin-top:80px
-    height: 80px;
-    width: 40px;
+    left: 330px;
+    margin-top:18%;
+    margin-left:-23%;
+    height: 130px;
+    width: 250px;
+}
+.logo2{
+	vertical-align: center;
+    position: relative;
+    left: 42%;
+	margin-top: 15%;
+    margin-left:0%;
+    height: 130px;
+    width: 250px;
+}
+.search-div{
+	margin-top:-15%;
 }
 .result-table{
 	

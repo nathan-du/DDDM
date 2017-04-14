@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify, render_template
 import os
-from parseSentence import parseSentence as ps
 
 app = Flask(__name__)
 
