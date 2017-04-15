@@ -9,10 +9,12 @@ dbport = "5432"
 db = pool.SimpleConnectionPool(1, 10, host=hostname, database=dbname, user=dbuser, password = dbpass, port = dbport)
 
 def querydb(query):
-	con = db.getconn()
-	cur = con.cursor()
+	conn = db.getconn()
+	cur = conn.cursor()
 	cur.execute(query)
-	return cur.fetchall()
+	results = cur.fetchall()
+	db.putconn(conn)
+	return results
 
 
 
