@@ -30,8 +30,14 @@ s27 = "45619 people immigrated"
 s28 = "more than 13000000 people immigrated"
 s29 = "13534341 people immigrated"
 s30 = "15000000 people immigrated"
-
-
+s31 = "In 2003 0.178% of immigrants came from Afghanistan"
+s32 = "In 2003 20% of immigrants came from Afghanistan"
+s33 = "In 2003 more than 0% of immigrants cam from India"
+s34 = "In 2005 less than 99% of immigrants came from Panama"
+s35 = "0.178% of immigrants came from Afghanistan"
+s36 = "95% of immigrants came from afghanistan"
+s37 = "more than 0% of immigrants came from India"
+s38 = "less than 99% of immigrants can from Germany"
 
 print(str(1), ps(s1), " - Expected: None")
 print(str(2), ps(s2), " - Expected: True")
@@ -63,3 +69,11 @@ print(27, ps(s27), " - Expected: True")
 print(28, ps(s28), " - Expected: True")
 print(29, ps(s29), " - Expected: True")
 print(30, ps(s30), " - Expected: False")
+print(31, ps(s31), " - Expected: True")
+print(32, ps(s32), " - Expected: False")
+print(33, ps(s33), " - Expected: True")
+print(34, ps(s34), " - Expected: True")
+print(35, ps(s35), " - Expected: True")
+print(36, ps(s36), " - Expected: False")
+print(37, ps(s37), " - Expected: True")
+print(38, ps(s38), " - Expected: True")

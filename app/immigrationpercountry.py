@@ -7,6 +7,8 @@ from querydb import querydb
 from dictionaries import getCountries
 
 def parseSentence(sentence):
+	sentence = sentence.lower()
+
   	# Parse year
 	regexp_year = re.compile('(in|year)\s(\d{4})')
 	m = regexp_year.search(sentence)
@@ -17,6 +19,13 @@ def parseSentence(sentence):
 		year = int(w[1])
 		# Replace it with empty string
 		sentence = regexp_year.sub('', sentence)
+
+	regexp_percent = re.compile('(\d+|\d*.\d+)\s*(%|percent)')
+	m = regexp_percent.search(sentence)
+	percent = None
+	if m is not None:
+		percent = float(m.group(1))
+		sentence = regexp_percent.sub('', sentence)
   
 	regexp_immigrants = re.compile('\d+')
 	m = regexp_immigrants.search(sentence)
@@ -44,7 +53,7 @@ def parseSentence(sentence):
 	greater_list = list(map(lambda x: x in sentence.lower(), greater))
 	greater_result = True in greater_list
 	
-	if len(countries) > 0:
+	if len(countries) > 0 and percent is None:
 		rows = []
 		for country in countries:
 			row = querydb("SELECT * FROM immigrationpercountry WHERE LOWER(country) LIKE '%"+country+"%'")
@@ -65,7 +74,7 @@ def parseSentence(sentence):
 					else:
 						return  immigrants > immigrants_actual*0.98 and immigrants < immigrants_actual*1.02
 				return False
-		elif immigrants is not None:
+		elif immigrants is not None and percent is None:
 			for r in rows:
 				r_copy = list(r)
 				del r_copy[:2]
@@ -85,7 +94,49 @@ def parseSentence(sentence):
 					return True
 				else:
 					return False
-	else:
+	elif len(countries) > 0 and percent is not None:
+		rows = querydb("SELECT * FROM immigrationpercountry")
+		if year is not None:
+			if year < 2003 or year > 2015:
+				return None
+			else:
+				total_immigration_year = 0
+				country_rows = []
+				for row in rows:
+					if row[(year%2000)-1] is None:
+						continue
+					if row[1].lower() in countries:
+						country_rows.append(row)
+					total_immigration_year += row[(year%2000)-1]
+				for country in country_rows:
+					actual_percent = 100*float(country[(year%2000)-1])/float(total_immigration_year)
+					if less_result and actual_percent < percent:
+						return True
+					if greater_result and actual_percent > percent:
+						return True
+					if 0.98*actual_percent <= percent <= 1.02*actual_percent:
+						return True
+				return False
+		else:
+			for y in range(2003,2016):
+				total_immigration_year = 0
+				country_rows = []
+				for row in rows:
+					if row[(y%2000)-1] is None:
+						continue
+					if row[1].lower() in countries:
+						country_rows.append(row)
+					total_immigration_year += row[(y%2000)-1]
+				for country in country_rows:
+					actual_percent = 100*float(country[(y%2000)-1])/float(total_immigration_year)
+					if less_result and actual_percent < percent:
+						return True
+					if greater_result and actual_percent > percent:
+						return True
+					if 0.98*actual_percent <= percent <= 1.02*actual_percent:
+						return True
+			return False
+	elif len(countries) == 0 and percent is None:
 		rows = querydb("SELECT * FROM immigrationpercountry")
 		if year is not None and immigrants is not None:
 			if year < 2003 or year > 2015:
