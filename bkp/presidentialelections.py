@@ -55,7 +55,7 @@ def parseSentence(sentence):
 
 	# Create key words
 	greater = ['greater', 'more', 'at least', 'beat', 'won against', 'won', 'elected', 'became president', 'winner']
-	less = ['less', 'no more', 'at most', 'fewer', 'was beaten', 'lost against', 'lost', 'not elected', 'loser']
+	less = ['less', 'no more', 'at most', 'was beaten', 'lost against', 'lost', 'not elected', 'loser']
 
 	# 0: No Comparison. 1: Less than. 2: Greater than
 	compare = 0
